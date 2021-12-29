@@ -1,0 +1,12 @@
+#ifndef SILVERFILE
+#define SILVERFILE
+
+#include "fileHandler_global.h"
+
+class FILEHANDLER_EXPORT silverFile
+{
+public:
+    silverFile();
+};
+
+#endif // SILVERFILE
